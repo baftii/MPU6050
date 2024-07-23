@@ -1,4 +1,4 @@
-#include "MPU.h"
+#include "MPU6050.h"
 
 int16_t gyroffset[3] = {0};
 
